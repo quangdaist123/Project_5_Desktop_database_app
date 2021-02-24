@@ -30,9 +30,9 @@ Run <b>main.py</b>
 </p>
 
 ## TODOs
--[ ] Make the listbox more readable
--[ ] Create a distinct primary key instead of using 'Title' as the only primary key
--[ ] Add a status bar to yield operation's status
--[ ] Show error message box when:
+- [ ] Make the listbox more readable
+- [ ] Create a distinct primary key instead of using 'Title' as the only primary key
+- [ ] Add a status bar to yield operation's status
+- [ ] Show error message box when:
     - [ ] Duplicate keys in table
     - [ ] Type wrong datatype
